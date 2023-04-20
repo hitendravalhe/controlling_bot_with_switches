@@ -1,5 +1,6 @@
 # controlling_bot_with_switches
 in this project {
+
   Controlling motors using switches and an Arduino board is a common project in the field of robotics and automation. By connecting two motors to pins 12, 10, 9, and 8 on the Arduino board, and four switches to pins 7, 6, 5, and 4, the motors can be controlled to move forward, reverse, left, or right.
 
 The switches are connected to the Arduino board such that when a switch is pressed, it connects the corresponding pin to ground. This allows the Arduino to detect when a switch is pressed by reading the voltage level of the corresponding pin.
